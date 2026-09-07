@@ -5,5 +5,8 @@
 ## 快速开始
 
 ```bash
+# 安装依赖
 pip install -r requirements.txt
+
+# 运行留存 Cohort 分析示例
 python scripts/retention_cohort.py
